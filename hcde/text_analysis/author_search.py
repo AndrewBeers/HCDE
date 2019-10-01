@@ -5,7 +5,7 @@ linking citations and sentences. Used for Empirical Traditions HCDE grad
 class.
 
 If you are using Python 3, you will need to install pdfminer.six instead
-of pdfminer. Graphs visualized outside of python with VOSviewer.
+of pdfminer. Graphs visualized outside of python with VOSviewer..
 """
 
 import unicodedata
